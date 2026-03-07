@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Conda
+.conda/
+
+# IDE
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Training outputs
+runs/
+outputs/
+results/
+checkpoints/
+
+# Datasets
+data/
+dataset/
+datasets/
+
+# OS files
+.DS_Store
+Thumbs.db
