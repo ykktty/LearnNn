@@ -43,3 +43,5 @@ datasets/
 # OS files
 .DS_Store
 Thumbs.db
+
+.idea/
